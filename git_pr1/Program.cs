@@ -10,6 +10,8 @@ namespace git_pr1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Test");
+            Console.ReadKey();
         }
     }
 }
